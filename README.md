@@ -1,0 +1,1 @@
+Vuelvo a la programación después de 1 año, mi ordenador se quedó obsoleto y no tenía recursos para comprar uno nuevo, ahora tengo uno más que decente y estoy listo para convertirme en dev pro. Primero estoy repasando todo lo que aprendí, en este caso, estoy repasando git y github. Me alegro de estar de vuelta!¡!!
